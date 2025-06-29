@@ -1,1 +1,1 @@
-These are my Big Data Analysis projects. Written in Python under Mongo DB and Spark modules.
+These are my Big Data Analysis projects. Written in Python under Mongo DB and Spark modules. These files originated as a Python script in a Jupyter Notebook. They were then exported to LaTeX (.tex format), refined for structure and readability, and finally compiled into a PDF for a cleaner, more pleasant presentation.
